@@ -1,6 +1,6 @@
 ### CV
 
-[My CV](CV_2021_eng.pdf)
+[My CV](CV_2022_eng.pdf)
 
 <!--
 **Waszker/Waszker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
