@@ -12,7 +12,7 @@ If you are interested in my work experience take a look at my CV in the repo:
 ### Website
 
 I invite all of those wanting to get to know me better to my personal website available at
-[piotr-waszkiewicz.net](piotr-waszkiewicz.net).
+[piotr-waszkiewicz.net](http://piotr-waszkiewicz.net).
 
 *Please note that it is hosted on what is intended to be a self-sustainable solution: a small 
 ESP8266 chip connected to a battery and solar panel. It may be possible that the battery has run dry
