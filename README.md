@@ -1,6 +1,22 @@
+Hi 👋
+
+my name is Piotr Waszkiewicz.
+
+I'm a software engineer located in Poland.
+
 ### CV
 
-[My CV](CV_2022_eng.pdf)
+If you are interested in my work experience take a look at my CV in the repo: 
+[CV_2022_eng.pdf](CV_2022_eng.pdf). 
+
+### Website
+
+I invite all of those wanting to get to know me better to my personal website available at
+[piotr-waszkiewicz.net](piotr-waszkiewicz.net).
+
+*Please note that it is hosted on what is intended to be a self-sustainable solution: a small 
+ESP8266 chip connected to a battery and solar panel. It may be possible that the battery has run dry
+and there's no sun to charge it. In case of website unavailability try again at a later date.*
 
 <!--
 **Waszker/Waszker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
