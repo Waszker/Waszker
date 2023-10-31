@@ -7,7 +7,7 @@ I'm a software engineer located in Poland.
 ### CV
 
 If you are interested in my work experience take a look at my CV in the repo: 
-[CV_2022_eng.pdf](CV_2022_eng.pdf). 
+[CV_2023_eng.pdf](CV_2023_eng.pdf). 
 
 ### Website
 
