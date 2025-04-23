@@ -18,19 +18,6 @@ I invite all of those wanting to get to know me better to my personal website av
 ESP8266 chip connected to a battery and solar panel. It may be possible that the battery has run dry
 and there's no sun to charge it. In case of website unavailability try again at a later date.*
 
-
-<div style="margin: auto">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Waszker&count_private=true&theme=react&bg_color=20232A">
-</div>
-
-<div style="margin: auto">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Waszker&theme=react&bg_color=20232A">
-</div>
-
-<div style="margin: auto">
-  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Waszker&theme=react-dark&bg_color=20232A">
-</div>
-
 <!--
 **Waszker/Waszker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,4 +31,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+<div style="margin: auto">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Waszker&count_private=true&theme=react&bg_color=20232A">
+</div>
+
+<div style="margin: auto">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Waszker&theme=react&bg_color=20232A">
+</div>
+
+<div style="margin: auto">
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Waszker&theme=react-dark&bg_color=20232A">
+</div>
 -->
